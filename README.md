@@ -3,6 +3,7 @@ It works using the Confluent platform.
 
 It uses a streamlit consumer to display the results. 
 
+This code can be used to generate additional training examples and response variants for Chatbots. 
 
 Usage:
 Coming Soon
